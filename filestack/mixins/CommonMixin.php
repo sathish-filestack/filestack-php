@@ -11,6 +11,7 @@ use GuzzleHttp\Client;
 use GuzzleHttp\Psr7\Request;
 
 
+
 /**
  * Mixin for common functionalities used by most Filestack objects
  *
